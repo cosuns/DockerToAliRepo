@@ -13,5 +13,6 @@ xiaoyaliu/alist:latest
 xhofe/alist:latest
 onething1/wxedge:latest
 ddsderek/xiaoyakeeper:latest
+geekotaku/xiaoyahelper:latest
 
 
